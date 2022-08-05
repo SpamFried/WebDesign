@@ -1,0 +1,13 @@
+body {
+    background-image: url("shrek.jpg");
+    font-size: 47pt;
+    font-family:"Comic Sans MS";
+    color:rgb(255, 0, 200);
+    font:italic;
+}
+h1{
+    color: aqua;
+    font: bold;
+    font-family:Impact;
+    font-size: 23pt;
+}
